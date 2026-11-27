@@ -1,0 +1,12 @@
+# Roadmap
+- [x] Planner: role picker, month calendar, endless numbered task lines with ✓/✗, carry-over, time reminders, daily/weekly/monthly repeat
+- [x] Storage: this device for personal planner
+- [x] Consistency streak (days in a row with at least one task done)
+- [x] Student lecture planner: coaching + batch picker (PW, Unacademy, Careerwill, eSaral, Allen), lecture & DPP ✓/✗, backlog carry-over, class-time reminders, class mode
+- [x] Rename app to Daymark (same font & colours); provide existing published URL
+- [ ] Student: attendance %, PYQ section, Test & Notes ("TNO" — meaning asked), Revision section
+- [ ] Business/corporate: sign-in; employers and employees connect (team code); employer assigns tasks; employee submits (note/link/file); employer approves or returns
+- [ ] Business/corporate: employer meetings with code; employee sees work from employer
+- [ ] Lecture planner: attendance %, PYQ, Test & Notes, Revision sections (verify all present)
+- [ ] Rename to Daymark everywhere (check leftover DEMARC/Narroyen strings)
+- [ ] Notes: upload handwritten note photo → AI summary into short revision points (AI Gateway)
